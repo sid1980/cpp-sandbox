@@ -1,0 +1,13 @@
+*.pro.user*
+Makefile*
+builddir
+bin
+docs
+outbox
+
+sandbox
+
+build*
+technics_files
+
+download
